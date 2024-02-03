@@ -113,7 +113,7 @@ int main()
     q.push(arr);
     while(true)
     {
-        cout << "1. Insertar\n2. Mostrar\n3. Borrar ultimo elemento\n";
+        cout << "1. Insert\n2. Show\n3. Pop back\n";
         cin >> x;
         switch(x)
         {
